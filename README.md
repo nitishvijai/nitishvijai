@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nitishvijai/nitishvijai/master/GitHubHeader.png">
+</div>
 
-<!--
-**nitishvijai/nitishvijai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I?
 
-Here are some ideas to get you started:
+Hello! I'm Nitish, a sophomore at the University of Michigan majoring in computer science and engineering. I enjoy working with technology of any kind and learning how to positively shape our world's future through computer science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="GIF" src="https://tenor.com/ooZm.gif" />
+
+If I'm not coding, I'll most likely be:
+
+- 👨‍👦 Spending time with family and friends
+- 💻 Catching up on the latest in technology
+- 🎧 Listening to catchy music
+- 🏸 Playing badminton
+
+### Catch me anywhere on...
+
+- Instagram
+- Twitter
+- LinkedIn
+- Quora
