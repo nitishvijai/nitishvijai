@@ -15,6 +15,7 @@ Hello! I'm Nitish, a sophomore at the University of Michigan majoring in compute
 <a href="mailto:nitishv@umich.edu"><img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/mail-dot-ru.svg"></a>
 
 </br>
+
 Also, check out my site [here](https://nitishv.dev/)!
 
 ### I've developed in...
