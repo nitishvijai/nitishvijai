@@ -6,11 +6,12 @@
 
 Hello! I'm Nitish, a sophomore at the University of Michigan majoring in computer science and engineering. I enjoy working with technology of any kind and learning how to positively shape our world's future through computer science. Thanks for stopping by!
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
 
 ### Catch me anywhere on...
 
 <a href="https://linkedin.com/in/nitishvijai/"><img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg"></a>
+<a href="https://instagram.com/nitishvijai/"><img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg"></a>
 <a href="mailto:nitishv@umich.edu"><img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/mail-dot-ru.svg"></a>
 
 </br></br>
