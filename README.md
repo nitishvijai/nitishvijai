@@ -8,14 +8,6 @@ Hello! I'm Nitish, a sophomore at the University of Michigan majoring in compute
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
 
-If I'm not coding, I'll most likely be:
-
-- 👨‍👦 Spending time with family and friends
-- 💻 Catching up on the latest in technology
-- 🎧 Listening to catchy music
-- 🏸 Playing badminton
-- 📸 Taking pictures of beautiful landscapes
-
 ### Catch me anywhere on...
 
 <a href="https://linkedin.com/in/nitishvijai/"><img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg"></a>
