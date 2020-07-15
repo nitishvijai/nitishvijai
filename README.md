@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nitishvijai/nitishvijai/master/GitHubHeader.png">
+  <img src="https://raw.githubusercontent.com/nitishvijai/nitishvijai/master/GitHubHeader_new.png">
 </div>
 
 ### 🙋🏾‍♂️ Who am I?
