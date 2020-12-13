@@ -2,14 +2,16 @@
   <img src="https://raw.githubusercontent.com/nitishvijai/nitishvijai/master/GitHubHeader_new.png">
 </div>
 
-### Howdy, I'm Nitish! 👋
+### Howdy 👋
 
 ## I'm currently...
 
-- 🏫 studying computer science and engineering at the University of Michigan (sophomore)!
-- 🤹‍♀️ learning data structures and algorithms
-- ⚒ working on the JK Rentals mobile app
+- 🏫 studying computer science and data science at the University of Michigan
+- 🤹‍♀️ learning web development and advanced Python
+- ⚒ working on personal projects
 - ❤ enjoying life at every twist and turn
+
+- 😄 Pronouns: he/him
 
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
 
