@@ -6,8 +6,8 @@
 
 ## I'm currently...
 
-- 🏫 studying computer science and data science at the University of Michigan
-- 🤹‍♀️ learning web development and advanced Python
+- 🏫 a junior studying computer science and data science at the University of Michigan
+- 🤹‍♀️ learning web development and other technical skills
 - ⚒ working on personal projects
 - ❤ enjoying life at every twist and turn
 
