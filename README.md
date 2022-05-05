@@ -1,19 +1,13 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nitishvijai/nitishvijai/master/GitHubHeader_new.png">
-</div>
-
-### Howdy 👋
+### Welcome to Nitish's GitHub 👋
 
 ## I'm currently...
 
-- 🏫 a junior studying computer science and data science at the University of Michigan
+- 🏫 a rising senior studying computer science and data science at the University of Michigan
 - 🤹‍♀️ learning web development and other technical skills
 - ⚒ working on personal projects
 - ❤ enjoying life at every twist and turn
 
 - 😄 Pronouns: he/him
-
-<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
 
 ### Catch me anywhere on...
 
