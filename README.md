@@ -1,22 +1,18 @@
-### Welcome to Nitish's GitHub 👋
+### Hey, I'm Nitish (he/him) 👋
 
-## I'm currently...
+### I'm currently...
 
-- 🏫 a rising senior studying computer science and data science at the University of Michigan
-- 🤹‍♀️ learning web development and other technical skills
-- ⚒ working on personal projects
+- 🏫 a recent graduate of the University of Michigan College of Engineering (go blue!)
+- ⚒ an incoming associate software engineer at Capital One
 - ❤ enjoying life at every twist and turn
-
-- 😄 Pronouns: he/him
+- 💬 ask me about tech, Tamil music/movies/dance, traveling, running, and lifting (please suggest some new recipes while you're at it too, thanks!) :)
 
 ### Catch me anywhere on...
 
-<a href="https://nitishv.dev/"><img align="left" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
-<a href="https://linkedin.com/in/nitishvijai/"><img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg"></a>
-<a href="https://instagram.com/nitishvijai/"><img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg"></a>
-<a href="mailto:nitishv@umich.edu"><img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/mail-dot-ru.svg"></a>
-
-</br></br>
+- <a href="https://nitishv.dev/">Website</a>
+- <a href="https://linkedin.com/in/nitishvijai/">LinkedIn</a>
+- <a href="https://instagram.com/nitish.vj/">Instagram</a>
+- <a href="mailto:nitishv@umich.edu">UMich Email</a>
 
 ### I've developed in...
 
