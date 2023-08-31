@@ -2,8 +2,8 @@
 
 ### I'm currently...
 
-- 🏫 a recent graduate of the University of Michigan College of Engineering (go blue!)
-- ⚒ an incoming associate software engineer at Capital One
+- ⚒ an associate software engineer at Capital One working on Cyber DevSecOps engineering
+- 🏫 an April '23 graduate of the University of Michigan College of Engineering (go blue!)
 - ❤ enjoying life at every twist and turn
 - 💬 ask me about tech, Tamil music/movies/dance, traveling, running, and lifting (please suggest some new recipes while you're at it too, thanks!) :)
 
@@ -12,7 +12,7 @@
 - <a href="https://nitishv.dev/">Website</a>
 - <a href="https://linkedin.com/in/nitishvijai/">LinkedIn</a>
 - <a href="https://instagram.com/nitish.vj/">Instagram</a>
-- <a href="mailto:nitishv@umich.edu">UMich Email</a>
+- <a href="mailto:vijai.nitish@gmail.com">Email</a>
 
 ### I've developed in...
 
